@@ -1,1 +1,1 @@
-AD
+This folder contains the journal paper "MAAPO: an innovative membrane algorithm based on artificial protozoa optimizer for multilevel threshold image segmentation" and the related MATLAB code. Please refer to: Wang, Xiaopeng, et al. "MAAPO: An innovative membrane algorithm based on artificial protozoa optimizer for multilevel threshold image segmentation." Artificial Intelligence Review 58.10 (2025): 324.
