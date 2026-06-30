@@ -1,8 +1,8 @@
-# 让 GitHub 忽略大文件，不计入语言百分比
+# Make GitHub ignore large files and exclude language percentages.
 *.pdf linguist-vendored
 *.mex* linguist-vendored
 *.exe linguist-vendored
 
-# 强行激活并统计这两种语言
+# Force activation and statistics for these two languages
 *.m linguist-detectable=true
 *.py linguist-detectable=true
